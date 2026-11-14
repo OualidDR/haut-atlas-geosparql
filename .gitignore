@@ -1,0 +1,13 @@
+# Environnement virtuel
+.venv/
+
+# Données (re-téléchargeables via les scripts)
+data/raw/*
+data/clean/*
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
