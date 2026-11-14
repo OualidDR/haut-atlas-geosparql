@@ -11,3 +11,4 @@ RAW_DIR = ROOT / "data" / "raw"
 # Identification auprès des API (politique d'usage Overpass / Wikimedia)
 USER_AGENT = "haut-atlas-geosparql/0.1 (https://github.com/OualidDR/haut-atlas-geosparql)"
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
+WIKIDATA_URL = "https://query.wikidata.org/sparql"
